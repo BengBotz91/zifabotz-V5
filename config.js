@@ -41,7 +41,7 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global . nama paket = ' Beng  ' 
+global . nama         paket         =     'Beng' 
 global . penulis  =  'Beng'
 
 global.wait = '▰▰▰▰▱▱▱▱▱▱ ʟᴏᴀᴅɪɴɢ...'
