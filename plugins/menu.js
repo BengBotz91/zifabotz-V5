@@ -554,16 +554,16 @@ function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   res = "udah malam tidur gih •>•"
   if (time >= 4) {
-    res = "Selamat pagi hari •>•"
+    res = "Selamat pagi hari bro 🌅"
   }
   if (time > 10) {
-    res = "Selamat siang hari •>•"
+    res = "Selamat siang hari bro 🏜️"
   }
   if (time >= 15) {
-    res = "Selamat sore hari •>•"
+    res = "Selamat sore hari bro 🌄"
   }
   if (time >= 18) {
-    res = "Selamat malam hari •>•"
+    res = "Selamat malam hari bro 🌌"
   }
   return res
 }

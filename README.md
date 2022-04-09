@@ -37,14 +37,14 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/Botynyakamu/zifabotz-V2
-> cd zifabotz-V2
+> git clone https://github.com/Botynyakamu/zifabotz-V5
+> cd zifabotz-V5
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r zifabotz-V2 $HOME
-> cd zifabotz-V2
+> cp -r zifabotz-V5 $HOME
+> cd zifabotz-V5
 > npm i
 > node run.js
 ```
@@ -99,6 +99,10 @@ global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
 global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 ```
 ---------
+##BANTU DONASI YUK
+```bash
+[`MURSID`](http://saweria.co/mursid25)
+```
 
 Simple WhatsApp Bot
 
@@ -138,7 +142,20 @@ Heroku Buildpack
 [![BOTCAHX](https://github.com/BOTCAX.png?size=100)](https://github.com/BOTCAHX) | [![ALYA](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![ZIFABOTZ](https://github.com/Botynyakamu.png?size=100)](https://github.com/botynyakamu)
 ----|----|----
 [BOTCAHX](https://github.com/BOTCAX) | [ALYA](https://github.com/AlyaaXd) | [ZIFABOTZ](https://github.com/Botynyakamu)| [Luc](https://github.com/siegrin)
- Penulis / Pencipta | Penulis / pencipta | Penulis / pencipta | membantu
+ Penulis / Pencipta | Penulis / pencipta | recode | membantu
+
+------
+ 
+### Github Stats 
+
+![github card](https://github-readme-stats.vercel.app/api?username=Botynyakamu&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Botynyakamu&theme=monokai)
+
+### Repo Stats 
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zifabotz-V5&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Botynyakamu&repo=zifabotz-V5&theme=dark)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
